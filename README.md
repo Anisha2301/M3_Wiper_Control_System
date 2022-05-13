@@ -1,7 +1,7 @@
 # M3_Wiper_Control_System
 Project on wiper system
 
-# CODE QUALITY
+# BULID ON LINUX
 [![Build-Linux](https://github.com/Anisha2301/M3_Wiper_Control_System/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Anisha2301/M3_Wiper_Control_System/actions/workflows/Build-Linux.yml)
 
 # CPPCHECK
