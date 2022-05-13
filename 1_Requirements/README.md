@@ -2,10 +2,10 @@
 ## INTRODUCTION
 Wiper system is an important component in all the vehicle system. They consist of ac motor fitted with arm which cleans the windshield surface of both front and rear windshield. Modern day cars also posses automatic sensing operation using Rain sensor which basically consists of LED that detects the amount of water on the windshield.
 
-## SOFTWARE REQUIREMENTS
+##  SOFTWARE REQUIREMENTS
 * STM32 IDE 
 
-## COMPONENTS 
+##  COMPONENTS 
 * STM32F407VG MICROCONTROLLER BOARD
 
 ## REQUIREMENTS FOR THE PROJECTS ARE :
